@@ -7,8 +7,7 @@ A classic Pong game developed using Processing (JAVA).
 
 The image below represents our planned game layout, including the main menu, difficulty selection, gameplay, and controls.
 
-![Pong Game Design](<img width="796" height="447" alt="pongExample" src="https://github.com/user-attachments/assets/d16b8f16-a15b-4dff-b634-b2bab08badb2" />
-)
+![Pong Game Design](pong_design.png)
 
 ## Planned Features
 
